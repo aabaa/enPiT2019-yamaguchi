@@ -3,7 +3,7 @@
 * [Bチーム]()
 * [Cチーム]()
 * [Dチーム](https://westv35.github.io/kenketu/)
-* [Eチーム]()
+* [Eチーム](https://taikitomita.github.io/Torika/)
 
 # 補足資料
 * [GitHubのMarkdown記法](./markdown)  
