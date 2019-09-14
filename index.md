@@ -1,6 +1,6 @@
 # 各グループの成果物
 * [Aチーム](https://hayate258.github.io/web-homepage-lesson/)
-* [Bチーム]()
+* [Bチーム](https://westv35.github.io/kenketu/)
 * [Cチーム]()
 * [Dチーム]()
 * [Eチーム]()
